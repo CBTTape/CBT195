@@ -1,10 +1,10 @@
-2025-04-15 00:26:33.302816 - Received CBT.V508.FILE195.PDS from FILE195.XMI 
-2025-04-15 00:26:33.304511 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE195.PDS, moved to PDS/$$$#DATE
-2025-04-15 00:26:33.304715 - Found $$$DOCUM.txt (text/plain) in CBT.V508.FILE195.PDS, moved to PDS/$$$DOCUM
-2025-04-15 00:26:33.304902 - Found $ELECT.txt (text/plain) in CBT.V508.FILE195.PDS, moved to PDS/$ELECT
-2025-04-15 00:26:33.305081 - Found @FILE195.txt (text/plain) in CBT.V508.FILE195.PDS, moved to PDS/@FILE195
-2025-04-15 00:26:33.305256 - Found COMPRESS.txt (text/plain) in CBT.V508.FILE195.PDS, moved to PDS/COMPRESS
-2025-04-15 00:26:33.305433 - Found LOGOF.txt (text/plain) in CBT.V508.FILE195.PDS, moved to PDS/LOGOF
-2025-04-15 00:26:33.305605 - Found RELOG.txt (text/plain) in CBT.V508.FILE195.PDS, moved to PDS/RELOG
-2025-04-15 00:26:33.305821 - Found T$TDIALG.txt (text/plain) in CBT.V508.FILE195.PDS, moved to PDS/T$TDIALG
-2025-04-15 00:26:33.306035 - Found WHOAMI.txt (text/plain) in CBT.V508.FILE195.PDS, moved to PDS/WHOAMI
+2025-04-15 19:13:43.167211 - Received CBT.V508.FILE195.PDS from FILE195.XMI 
+2025-04-15 19:13:43.168477 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE195.PDS, moved to PDS/$$$#DATE
+2025-04-15 19:13:43.168806 - Found $$$DOCUM.txt (text/plain) in CBT.V508.FILE195.PDS, moved to PDS/$$$DOCUM
+2025-04-15 19:13:43.169121 - Found $ELECT.txt (text/plain) in CBT.V508.FILE195.PDS, moved to PDS/$ELECT
+2025-04-15 19:13:43.169167 - Found @FILE195.txt (text/plain) in CBT.V508.FILE195.PDS, moved to PDS/@FILE195
+2025-04-15 19:13:43.169337 - Found COMPRESS.txt (text/plain) in CBT.V508.FILE195.PDS, moved to PDS/COMPRESS
+2025-04-15 19:13:43.169525 - Found LOGOF.txt (text/plain) in CBT.V508.FILE195.PDS, moved to PDS/LOGOF
+2025-04-15 19:13:43.169726 - Found RELOG.txt (text/plain) in CBT.V508.FILE195.PDS, moved to PDS/RELOG
+2025-04-15 19:13:43.169942 - Found T$TDIALG.txt (text/plain) in CBT.V508.FILE195.PDS, moved to PDS/T$TDIALG
+2025-04-15 19:13:43.170204 - Found WHOAMI.txt (text/plain) in CBT.V508.FILE195.PDS, moved to PDS/WHOAMI
